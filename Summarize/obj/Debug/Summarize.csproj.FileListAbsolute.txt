@@ -1,0 +1,6 @@
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\Summarize\bin\Debug\Summarize.exe.config
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\Summarize\bin\Debug\Summarize.exe
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\Summarize\bin\Debug\Summarize.pdb
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\Summarize\obj\Debug\Summarize.csprojResolveAssemblyReference.cache
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\Summarize\obj\Debug\Summarize.exe
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\Summarize\obj\Debug\Summarize.pdb

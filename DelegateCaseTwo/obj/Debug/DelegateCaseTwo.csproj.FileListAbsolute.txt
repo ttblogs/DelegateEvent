@@ -1,0 +1,5 @@
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\DelegateCaseTwo\bin\Debug\DelegateCaseTwo.exe.config
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\DelegateCaseTwo\bin\Debug\DelegateCaseTwo.exe
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\DelegateCaseTwo\bin\Debug\DelegateCaseTwo.pdb
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\DelegateCaseTwo\obj\Debug\DelegateCaseTwo.exe
+F:\1-靖江工作\4-靖江技术学习\1-MVC+EF\26-基础理论技术总结（面试准备）\事件委托\Summarize\DelegateCaseTwo\obj\Debug\DelegateCaseTwo.pdb
